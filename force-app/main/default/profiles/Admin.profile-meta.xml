@@ -17,6 +17,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.Interest_in_Golf_Days__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Contact.Birthdate__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -27,6 +32,9 @@
     </fieldPermissions>
     <layoutAssignments>
         <layout>Contact-Formato de contactos</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Formato de cuentas</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Opportunity-Formato de oportunidades</layout>
