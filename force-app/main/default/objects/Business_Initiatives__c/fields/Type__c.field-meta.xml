@@ -25,6 +25,16 @@
                 <default>false</default>
                 <label>Solar</label>
             </value>
+            <value>
+                <fullName>Tidal</fullName>
+                <default>false</default>
+                <label>Tidal</label>
+            </value>
+            <value>
+                <fullName>Geothermal</fullName>
+                <default>false</default>
+                <label>Geothermal</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
