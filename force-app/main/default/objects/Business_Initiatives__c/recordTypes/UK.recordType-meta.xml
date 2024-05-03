@@ -6,6 +6,10 @@
     <picklistValues>
         <picklist>Type__c</picklist>
         <values>
+            <fullName>Geothermal</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Hydro</fullName>
             <default>false</default>
         </values>
